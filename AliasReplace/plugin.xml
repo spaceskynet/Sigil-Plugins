@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<name>AliasReplace</name>
+<type>edit</type>
+<author>SpaceSkyNet</author>
+<description>别名替换</description>
+<engine>python3.4</engine>
+<version>0.1</version>
+<oslist>osx,unx,win</oslist>
+<autostart>true</autostart>
+</plugin>

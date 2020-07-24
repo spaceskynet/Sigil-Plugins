@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<name>ChapterInspection</name>
+<type>validation</type>
+<author>SpaceSkyNet</author>
+<description>分章检查</description>
+<engine>python3.4</engine>
+<version>0.1</version>
+<oslist>osx,unx,win</oslist>
+<autostart>true</autostart>
+</plugin>

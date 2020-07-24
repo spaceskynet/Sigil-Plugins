@@ -70,7 +70,7 @@ class askSetting(QDialog):
         chapter_table.setColumnWidth(2, 50)
         chapter_table.horizontalHeader().setStretchLastSection(True)
         chapter_table.horizontalHeader().setSectionResizeMode(QHeaderView.Fixed)
-        chapter_table.verticalHeader().setDefaultSectionSize(15)
+        chapter_table.verticalHeader().setDefaultSectionSize(25)
         chapter_table.setHorizontalHeaderLabels(['章节标题', '章节长度', '结果'])
         max_chapter_len = max([chapter_len for _, chapter_len, _ in chapter_check])
         for row in range(chapters_len):
